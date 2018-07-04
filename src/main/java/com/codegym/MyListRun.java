@@ -14,7 +14,5 @@ public class MyListRun {
         System.out.println("element 1: "+listSimple.get(2));
         System.out.println("element 1: "+listSimple.get(5));
         System.out.println("element 1: "+listSimple.get(4));
-
-
     }
 }
